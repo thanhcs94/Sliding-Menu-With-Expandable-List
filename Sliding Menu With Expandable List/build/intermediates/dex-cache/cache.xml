@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\PC-13\Downloads\SlidingApplication-master\SlidingApplication-master\app\build\intermediates\exploded-aar\SlidingApplication-master.lib\SlidingMenu\unspecified\classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="1fc45422157fb09464a84e96af4d344eb91a9ddb">
+        <dex dex="C:\Users\PC-13\Downloads\SlidingApplication-master\SlidingApplication-master\app\build\intermediates\pre-dexed\debug\classes-a288fea2e05d0265003d8d71a64a98d09df07f08.jar" />
+    </item>
+    <item
+        jar="D:\Android_Studio_setup\sdk\extras\android\m2repository\com\android\support\support-v4\19.0.0\support-v4-19.0.0.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="afee690af14bd2c32d400cdf78e746fd45c386fa">
+        <dex dex="C:\Users\PC-13\Downloads\SlidingApplication-master\SlidingApplication-master\app\build\intermediates\pre-dexed\debug\support-v4-19.0.0-e08d087caef7bc91b0de2a025118da0bdf53fb7b.jar" />
+    </item>
+    <item
+        jar="C:\Users\PC-13\Downloads\SlidingApplication-master\SlidingApplication-master\app\build\intermediates\exploded-aar\com.actionbarsherlock\actionbarsherlock\4.4.0\classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="af64527b748983a75de9c0756e9768b56b240a49">
+        <dex dex="C:\Users\PC-13\Downloads\SlidingApplication-master\SlidingApplication-master\app\build\intermediates\pre-dexed\debug\classes-14f8b578adfc4216ce906068bf41e0dbf23b1dd2.jar" />
+    </item>
+
+</items>

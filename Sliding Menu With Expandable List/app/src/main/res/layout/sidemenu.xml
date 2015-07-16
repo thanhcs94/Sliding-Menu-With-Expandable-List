@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/slidingbackground"
+    android:orientation="vertical"
+    >
+
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="70dp"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:gravity="center_vertical|center_horizontal"
+        android:background="@drawable/another"
+        android:text="Your Logo Here"
+        android:textColor="#ffffff"
+        android:textSize="30sp"
+        android:id="@+id/textView" />
+
+<ExpandableListView android:id="@+id/sidemenu"
+    android:layout_width="fill_parent"
+    android:layout_height="match_parent"
+    android:divider="#cccccc"
+    android:dividerHeight="0.7dp"
+    android:footerDividersEnabled="false"
+    android:headerDividersEnabled="false"
+    android:childDivider="#ffffff"
+    android:choiceMode="singleChoice"
+   >
+</ExpandableListView>
+
+
+</LinearLayout>

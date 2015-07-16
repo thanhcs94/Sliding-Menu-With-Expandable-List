@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Expandeble Sliding Menu</string>
+    <string name="title_activity_main">ThanhCS94</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="first_fragment_name">ThanhCs94</string>
+    <string name="second_fragment_name">Expandeble Sliding Menu</string>
+    <string name="large_text">Expandeble Sliding Menu</string>
+    <string name="callmenu">Expandeble Sliding Menu</string>
+
+</resources>
