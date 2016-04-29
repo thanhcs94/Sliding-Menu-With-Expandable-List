@@ -7,5 +7,5 @@ take a look <br/>
 <br/>
 <br/>
 <strong>ThanhCS94</strong>
-http://thanhcs.blogspot.com/
+http://thanhcs.com/
 
